@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"title":"golang","created":"2025-11-14T21:57:48+01:00","modified":"2025-11-14T21:57:48+01:00","cssclasses":""}
 ---
 
 So the overall goal for me is to get some hands on malware development to understand their working and by this the potential detection steps that can be inferred. I start with ransomware, but should later add a categorization for myself to have a good overview over other malware types (#TODO). To make it a little more interesting for me, I want to write it in a programming language, that I haven't touched before, and I have a good candidate as I heard from multiple people that the one is suppose to make much fun - which is Go.

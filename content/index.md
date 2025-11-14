@@ -1,6 +1,7 @@
 ---
-{"publish":true,"title":"Tim's notes","created":"2025-11-14T21:34:57.368+01:00","modified":"2025-11-14T21:49:24.069+01:00","cssclasses":""}
+{"publish":true,"title":"Tim's notes","cssclasses":""}
 ---
+
 
 
 Welcome, stranger, to my working notes. Here I share insights into content I'm currently learning. Most of it will likely deal with computers and aspects of them that I personally find fun and fascinating. I want to be very honest with you right from the start: publishing these notes is primarily self-serving. I want to document my progress publicly, hoping to motivate myself to get things done faster.
